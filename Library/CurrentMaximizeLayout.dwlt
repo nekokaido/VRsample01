@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 494}
   m_MaxSize: {x: 14002, y: 14044}
   vertical: 0
-  controlID: 6216
+  controlID: 7500
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -130,7 +130,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 6170
+  controlID: 7454
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -155,7 +155,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 6148
+  controlID: 7425
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,21 +213,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: aa8affffb28affffc08affffda8affff668bffff6efbffff1e6d0000
+      m_ExpandedIDs: aa8affffb28affffc08affff668bffff6efbffffd26c00001e6d00002a6d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: MenuItemFlyer
+        m_OriginalName: MenuItemFlyer
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 33406
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -334,13 +334,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.15798208, y: -0.08962841, z: 0.01440072, w: -0.9832625}
+    m_Target: {x: -0.11538234, y: 0.16664691, z: -0.01963759, w: -0.97905004}
     speed: 2
-    m_Value: {x: -0.15798177, y: -0.089628235, z: 0.014400691, w: -0.9832605}
+    m_Value: {x: -0.11538184, y: 0.16664618, z: -0.019637503, w: -0.97904575}
   m_Size:
-    m_Target: 10
+    m_Target: 11.909336
     speed: 2
-    m_Value: 10
+    m_Value: 11.909336
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -29982
+  m_LastSelectedObjectID: -30028
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -503,8 +503,8 @@ MonoBehaviour:
     y: 487
     width: 1023
     height: 318
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 232, y: 272}
+  m_MaxSize: {x: 10002, y: 10022}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -550,20 +550,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/VRSampleScenes/Prefabs/Flyer
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/VRSampleScenes/Prefabs/Flyer
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/nekokaido/VRsample01
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc6d0000
-    m_LastClickedID: 28092
-    m_ExpandedIDs: 00000000122d000000ca9a3b
+    scrollPos: {x: 0, y: 249}
+    m_SelectedIDs: 3a490000
+    m_LastClickedID: 18746
+    m_ExpandedIDs: 00000000122d000000480000ce4900000e4a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -616,9 +616,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: b48affff
-    m_LastClickedInstanceID: -30028
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 146d0000
+    m_LastClickedInstanceID: 27924
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009a380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -735,5 +735,5 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -30028
+  m_LastInspectedObjectInstanceID: 27924
   m_LastVerticalScrollValue: 0
