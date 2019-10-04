@@ -124,12 +124,16 @@
     <Compile Include="Assets\VRStandardAssets\Scripts\VRInput.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\VRInteractiveItem.cs" />
     <Compile Include="Assets\VRStandardAssets\Scripts\VRTrackingReset.cs" />
+    <None Include="Assets\uCurvedScreen-master\Assets\uCurvedScreen\Shaders\CurvedScreen_Standard.shader" />
+    <None Include="Assets\uCurvedScreen-master\Assets\uCurvedScreen\Shaders\CurvedScreen_Unlit.shader" />
     <None Include="Assets\VRSampleScenes\Shaders\UnlitTransparentParam.shader" />
     <None Include="Assets\VRSampleScenes\Shaders\UIOverlay.shader" />
     <None Include="Assets\VRSampleScenes\Shaders\PriorityParticleAlpha.shader" />
     <None Include="Assets\VRSampleScenes\Shaders\SlidingUV.shader" />
     <None Include="Assets\VRSampleScenes\Shaders\SeparableAlpha.shader" />
+    <None Include="Assets\uCurvedScreen-master\Assets\uCurvedScreen\Shaders\CurvedScreen.cginc" />
     <None Include="Assets\VRSampleScenes\Fonts\RobotoLicense.txt" />
+    <None Include="Assets\uCurvedScreen-master\ProjectSettings\ProjectVersion.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/nekokaido/VRsample01/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{534B6400-B3E5-3E79-89E0-1AEF08F4E1B9}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/nekoCricked.cs">
     <Files>
-      <File FileName="Assets/Scripts/nekoCricked.cs" Line="5" Column="25" />
+      <File FileName="Assets/Scripts/nekoCricked.cs" Line="13" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,19 +18,11 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="VRsample01" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fa0b2d07-edb6-4a9f-9c6e-69bcd3a4e71d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ae9ac42-0a95-404a-ace5-6b55c51b968d" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
